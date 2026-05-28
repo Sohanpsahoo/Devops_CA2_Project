@@ -1,0 +1,15 @@
+numpy>=1.26.0
+pandas
+scikit-learn
+tensorflow>=2.16.1
+keras
+pillow
+flask
+requests
+google-generativeai
+python-dotenv
+opencv-python
+matplotlib
+seaborn
+tqdm
+h5py 

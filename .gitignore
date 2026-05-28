@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+2750/
+Code Repository/
