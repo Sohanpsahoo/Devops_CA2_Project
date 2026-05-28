@@ -12,4 +12,6 @@ opencv-python
 matplotlib
 seaborn
 tqdm
-h5py 
+h5py
+pytest
+flake8
